@@ -14,9 +14,11 @@ weapons: [{
   y: 0
   x: 3
   reload: 1
+  shootCone: 360
+  shots: 6
   alternate: true
   shootSound: corexplode
-  inaccuracy: 6
+  inaccuracy: 360
   bullet: {
     speed: 6
     splashDamage: 8492938383883839
