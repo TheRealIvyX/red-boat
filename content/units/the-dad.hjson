@@ -1,0 +1,29 @@
+localizedName: annihilator of dimensions
+description: red boats dad
+health: 98238274937492394
+itemCapacity: 69420
+commandLimit: 0
+speed: 69
+accel: 5
+drag: 0
+research: blast-compound
+weapons: [{
+  name: red-boat
+  top: true
+  rotate: true
+  y: 0
+  x: 3
+  reload: 1
+  alternate: true
+  shootSound: corexplode
+  inaccuracy: 6
+  bullet: {
+    speed: 6
+    splashDamage: 8492938383883839
+    splashDamageRadius: 2929392982730
+    pierceBuilding: true
+    pierce: true
+    ammoMultiplier: 1
+    lifetime: 9001
+  }
+}]
