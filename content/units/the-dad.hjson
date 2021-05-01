@@ -4,7 +4,7 @@ health: 98238274937492394
 itemCapacity: 69420
 commandLimit: 0
 speed: 69
-accel: 5
+accel: 0.05
 drag: 0
 research: blast-compound
 weapons: [{
@@ -27,5 +27,6 @@ weapons: [{
     pierce: true
     ammoMultiplier: 1
     lifetime: 9001
+    keepVelocity: false
   }
 }]
