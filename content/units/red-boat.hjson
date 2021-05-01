@@ -1,0 +1,9 @@
+type: naval
+localizedName: red boat
+description: the funni boat
+health: 169
+itemCapacity: 420
+commandLimit: 0
+speed: 2
+accel: 0.05
+drag: 0.0001
