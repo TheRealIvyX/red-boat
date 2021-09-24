@@ -1,6 +1,7 @@
 localizedName: annihilator of dimensions
 description: red boats dad
 health: 98238274937492394
+armor: 98238274937492394
 itemCapacity: 69420
 commandLimit: 0
 speed: 69
@@ -12,7 +13,117 @@ weapons: [{
   top: true
   rotate: true
   y: 0
+  x: 1
+  reload: 3
+  shootCone: 360
+  shots: 6
+  alternate: true
+  shootSound: corexplode
+  inaccuracy: 360
+  bullet: {
+    speed: 6
+    splashDamage: 8492938383883839
+    splashDamageRadius: 2929392982730
+    pierceBuilding: true
+    pierce: true
+    ammoMultiplier: 1
+    lifetime: 9001
+    keepVelocity: false
+  }
+},{
+  name: red-boat
+  top: true
+  rotate: true
+  y: 0
+  x: 2
+  reload: 3
+  shootCone: 360
+  shots: 6
+  alternate: true
+  shootSound: corexplode
+  inaccuracy: 360
+  bullet: {
+    speed: 6
+    splashDamage: 8492938383883839
+    splashDamageRadius: 2929392982730
+    pierceBuilding: true
+    pierce: true
+    ammoMultiplier: 1
+    lifetime: 9001
+    keepVelocity: false
+  }
+},{
+  name: red-boat
+  top: true
+  rotate: true
+  y: 0
   x: 3
+  reload: 3
+  shootCone: 360
+  shots: 6
+  alternate: true
+  shootSound: corexplode
+  inaccuracy: 360
+  bullet: {
+    speed: 6
+    splashDamage: 8492938383883839
+    splashDamageRadius: 2929392982730
+    pierceBuilding: true
+    pierce: true
+    ammoMultiplier: 1
+    lifetime: 9001
+    keepVelocity: false
+  }
+},{
+  name: red-boat
+  top: true
+  rotate: true
+  y: 0
+  x: 4
+  reload: 3
+  shootCone: 360
+  shots: 6
+  alternate: true
+  shootSound: corexplode
+  inaccuracy: 360
+  bullet: {
+    speed: 6
+    splashDamage: 8492938383883839
+    splashDamageRadius: 2929392982730
+    pierceBuilding: true
+    pierce: true
+    ammoMultiplier: 1
+    lifetime: 9001
+    keepVelocity: false
+  }
+},{
+  name: red-boat
+  top: true
+  rotate: true
+  y: 0
+  x: 5
+  reload: 3
+  shootCone: 360
+  shots: 6
+  alternate: true
+  shootSound: corexplode
+  inaccuracy: 360
+  bullet: {
+    speed: 6
+    splashDamage: 8492938383883839
+    splashDamageRadius: 2929392982730
+    pierceBuilding: true
+    pierce: true
+    ammoMultiplier: 1
+    lifetime: 9001
+    keepVelocity: false
+  }
+},{
+  name: red-boat
+  top: true
+  rotate: true
+  y: 0
+  x: 6
   reload: 3
   shootCone: 360
   shots: 6
